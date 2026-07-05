@@ -19,7 +19,7 @@
 
 ## 📖 Project Overview
 
-This repository houses the **Final Exam Statistics Project** (`UAS_Statistika.ipynb`) dedicated to calculating, analyzing, and visualizing macroeconomic trade metrics[cite: 8]. The analysis centers around **Indonesian Import Performance throughout the year 2024**, utilizing official empirical data sourced from the **Central Bureau of Statistics (BPS Indonesia)**. 
+This repository houses the **Final Exam Statistics Project** (`UAS_Statistika.ipynb`) dedicated to calculating, analyzing, and visualizing macroeconomic trade metrics. The analysis centers around **Indonesian Import Performance throughout the year 2024**, utilizing official empirical data sourced from the **Central Bureau of Statistics (BPS Indonesia)**. 
 
 The analytical pipeline applies rigorous descriptive statistical methods to transform raw trade numbers into clear, structural economic insights, evaluating fluctuations, key performance indicators, and trade balances.
 
@@ -49,11 +49,11 @@ The final examination project implements systematic statistical tracking to asse
 
 ## 🛠️ Technology Stack
 
-The data preprocessing and computational pipeline are built natively inside a Jupyter Notebook environment using the standard Python data science stack[cite: 8]:
+The data preprocessing and computational pipeline are built natively inside a Jupyter Notebook environment using the standard Python data science stack:
 
 | Layer / Component | Technology & Functional Purpose |
 | :--- | :--- |
-| **Workspace Runtime** | Jupyter Notebook (`.ipynb` environment)[cite: 8] |
+| **Workspace Runtime** | Jupyter Notebook (`.ipynb` environment) |
 | **Data Engineering** | **Pandas** & **NumPy** for data cleaning, multi-tier array filtering, and matrix computing. |
 | **Statistical Computations** | Built-in Python algorithms for calculating Mean, Median, Variance, and Standard Deviation. |
 | **Data Visualization** | **Matplotlib** & **Seaborn** for designing economic trend charts and density plots. |
