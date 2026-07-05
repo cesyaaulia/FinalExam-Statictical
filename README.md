@@ -27,8 +27,13 @@ The analytical pipeline applies rigorous descriptive statistical methods to tran
 
 ## 📋 Project Documentation
 <div align="center">
-<img width="47%" alt="image" src="https://github.com/user-attachments/assets/0212b5ad-2214-484e-a6ca-3ca864541bf4" />
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/be98bbf3-f85c-450d-9f7f-2ee99b82f4cd" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/8b7c97dd-4da5-4077-bc6a-853c425bf16d" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/3f4e96f4-45df-41c8-8dea-6507a0e3d322" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/e8a5f9e9-a603-4d2d-866b-aa127b7a8846" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/de0cf94f-429a-4109-bd7d-96068d04b5d9" />
+<img width="31%" alt="image" src="https://github.com/user-attachments/assets/e06027d4-0fce-44c2-99e4-7a7767a61933" />
+<img width="34%" alt="image" src="https://github.com/user-attachments/assets/f2f58e39-9154-4d5a-9a08-87822655c796" />
+<img width="34%" alt="image" src="https://github.com/user-attachments/assets/2c821099-3e99-4609-9c49-5f07ce4dbf6b" />
 </div>
 
 ---
