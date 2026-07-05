@@ -54,6 +54,9 @@ FinalExam-Statictical/
 │
 ├── 📄 UAS_Statistika.ipynb   # Main Jupyter Notebook containing data pipelines, statistics, and visualizations
 └── README.md                 # Project configuration and core documentation
+```
+
+---
 
 ## 📊 Key Methodology & Metrics
 
