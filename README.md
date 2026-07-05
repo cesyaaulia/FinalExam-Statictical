@@ -25,6 +25,14 @@ The analytical pipeline applies rigorous descriptive statistical methods to tran
 
 ---
 
+## 📋 Project Documentation
+<div align="center">
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/0212b5ad-2214-484e-a6ca-3ca864541bf4" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/be98bbf3-f85c-450d-9f7f-2ee99b82f4cd" />
+</div>
+
+---
+
 ## 🎯 Analysis Objectives
 
 The final examination project implements systematic statistical tracking to assess national import patterns:
